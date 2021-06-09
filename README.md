@@ -18,3 +18,4 @@ cd governance/
 dfx help
 dfx config --help
 ```
+# testscriptbash
