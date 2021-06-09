@@ -20,3 +20,4 @@ dfx config --help
 ```
 # testscriptbash
 # testscriptbash
+# testscriptbash
